@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general epistle of universal love and good will to all the families of the earth, who are seeking the Lord, and enquiring after the knowledge of him, whom to know is eternal life, whether they be in forms of worship, or without, or suppose they have got above all forms, &amp;c. With directions, how, and by what means, the saving knowledge of God is again restored, and where he may be found; and how, from the least to the greatest, all may attain to the knowledge of Him, according to his promise, by the apostle.</title>
+            <author>Rigge, Ambrose, 1635?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57301</idno>
+            <idno type="STC">Wing R1481</idno>
+            <idno type="STC">ESTC R217998</idno>
+            <idno type="EEBO-CITATION">99829627</idno>
+            <idno type="PROQUEST">99829627</idno>
+            <idno type="VID">34068</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57301)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34068)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2000:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general epistle of universal love and good will to all the families of the earth, who are seeking the Lord, and enquiring after the knowledge of him, whom to know is eternal life, whether they be in forms of worship, or without, or suppose they have got above all forms, &amp;c. With directions, how, and by what means, the saving knowledge of God is again restored, and where he may be found; and how, from the least to the greatest, all may attain to the knowledge of Him, according to his promise, by the apostle.</title>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing; signed and dated at end: Reigate, the 8th day of the 8th month, 1698. Ambrose Rigge.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Love --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:34068:1" rendition="simple:additions"/>
+            <head>A General EPISTLE Of Univerſal Love and Good Will</head>
+            <head type="sub">To all the Families of the Earth, who are ſeeking the Lord, and enquiring after
+the Knowledge of him, whom to know is Eternal Life, whether they be in Forms of Worſhip, or
+without, or ſuppoſe they have got above all Forms, <hi>&amp;c.</hi>
+            </head>
+            <head type="sub">WITH DIRECTIONS.</head>
+            <argument>
+               <p>How, and by what means, the Saving Knowledge of God is again Reſtored, and where he may be
+found; and how, from the Leaſt to the Greateſt, all may attain to the Knowledge of Him,
+according to his Promiſe, by the Apoſtle.</p>
+            </argument>
+            <epigraph>
+               <q>
+                  <bibl>Hebrews VIII. 8, 9, 10, 11.</bibl>
+                  <p>
+                     <hi>Behold the days come (ſaith the Lord) when I will make a New Cove<g ref="char:EOLhyphen"/>nant with the Houſe
+of</hi> Iſrael, <hi>and with the Houſe of</hi> Judah.</p>
+                  <p>
+                     <hi>Not according to the Covenant that I made with their Fathers, in the day when I took them by
+the hand to lead them out of the Land of Egypt; becauſe they continued not in my Covenant, and I
+regarded them not, ſaith the Lord.</hi>
+                  </p>
+                  <p>
+                     <hi>For this is the Covenant that I will make with the Houſe of</hi> Iſrael <hi>after
+thoſe days, ſaith the Lord; I will put my Laws into their Mind, and write them in their Hearts:
+And I will be to them a God, and they ſhall be to me a People.</hi>
+                  </p>
+                  <p>
+                     <hi>And they ſhall not teach every Man his Neighbour, and every Man his Brother, ſaying,
+Know the Lord: For all ſhall know me from the leaſt to the greateſt,</hi> &amp;c.</p>
+               </q>
+            </epigraph>
+            <p>THis is the Goſpel Covenant, where the Law is put in the Mind, and writ in the Heart, by the
+Finger of God (here the outward Prieſts Lips are not to keep the Peoples knowledge, as in the
+time of the Law, and Firſt Covenant, but univerſal Know<g ref="char:EOLhyphen"/>ledge
+<pb facs="tcp:34068:2"/>
+               <pb n="1" facs="tcp:34068:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:34068:3"/>
+promiſed, by the <hi>Lip of Truth,</hi> to the leaſt as well as the greateſt) which, who
+receiveth and embraceth in our day, will no longer <hi>ſpend</hi> their <hi>Money,</hi> nor their
+<hi>Labour,</hi> for that which will not profit them, <hi>Iſa.</hi> 55. 1, 2, 3, 4, 5. being
+<hi>ever learning, and never able to come to the Knowledge of the Truth,</hi> 2 Tim. 3. to verſe
+7.</p>
+            <p>But it hath been the great Unhappineſs of all Mankind in the Fall, thereby to loſe the
+Knowledge of God. And as the <hi>Serpent</hi> prevailed with <hi>Eve,</hi> to break Covenant with
+God, and from her to <hi>Adam,</hi> whereby they were drove from the Preſence of God, which had
+been a Fountain of Life to them: Even ſo he hath prevailed with the Generality of Mankind, to
+ſlight and diſ<g ref="char:EOLhyphen"/>regard that which God hath ordained to Reſtore them again to the true and
+ſaving Knowledge of the true and living God: Though they are ſeeking him in divers Forms and
+Manners of Worſhip, and that with Zeal too; yet being Ignorant of that, in and by which the Lord
+was always known and manifeſted: They Pray in vain, Preach in vain, and ſeek the Face of God in
+vain.</p>
+            <p>For their ſakes, chiefly, am I drawn forth, to diſcover openly what the Lord hath made known
+to me in ſecret, who have been upon the <hi>barren Mountains, ſeeking the Living among the
+Dead,</hi> as well as others.</p>
+            <p>The firſt Promiſe that was made to Mankind (of Reſtoration out of this miſerable fallen
+State, <hi>Gen.</hi> 3. 15.) was in and by that Promiſed Seed, which was to bruiſe the
+<hi>Serpent</hi>'s Head; of which Seed all the righteous Generations, from <hi>Adam,</hi> did
+partake; as <hi>Abel, Enoch, Noah, Abraham, Iſaac, Jacob,</hi> and all the <hi>Patriarchs</hi>
+and <hi>Prophets.</hi>
+            </p>
+            <p>And to <hi>Abraham</hi> in his Seed was the Promiſe made to all the Families of the Earth,
+<hi>Gen.</hi> 12. 3. of <hi>Bleſſing</hi> and <hi>Reſtoration,</hi> out of the
+<hi>Curſe,</hi> which came on Man in the Fall. And this <hi>Seed</hi> and <hi>Spirit</hi> of
+<hi>Life</hi> was the principal Inſtructer and Leader of all the holy Men of God, in and before
+the Firſt Covenant, in all the <hi>Statutes</hi> and <hi>Judgments</hi> which the Lord ſet
+before them, which they were to do and Live. By the opening of this <hi>Spirit</hi>
+               <pb n="3" facs="tcp:34068:3"/>
+of <hi>Life</hi> and <hi>Prophecy, Moſes</hi> propheſied of Chriſt, <hi>Deut.</hi> 18. 15,
+16, 17, 18. And <hi>Abraham</hi> offered his Son, <hi>Gen.</hi> 22. This inſtructed the
+<hi>Prophets</hi> in all their Propheſies, and led <hi>Iſrael,</hi> who obeyed it, through the
+Wilderneſs, <hi>Nehem.</hi> 9. 19, 20. and was to them as a <hi>Pillar of a Cloud by Day, and a
+Pillar of Fire by Night,</hi> Numb. 14. 14.</p>
+            <p>And by this <hi>Daniel</hi> expounded to King <hi>Belſhazzar</hi> the Hand<g ref="char:EOLhyphen"/>writing that was
+againſt him, <hi>Dan.</hi> 5. 11. And the holy Pro<g ref="char:EOLhyphen"/>phets, unto <hi>Malachi,</hi> which had
+Knowledge of the Coming of Chriſt, it was by this: Of this <hi>Seed</hi> came all the
+<hi>Branches of Righteouſneſs</hi> that ever grew up in any Generations of the World: And unto
+this Seed <hi>(Chriſt,</hi> his <hi>Light</hi> and <hi>Spirit</hi> of <hi>Life)</hi> muſt all
+Nations of the World come, that the Head of the Ser<g ref="char:EOLhyphen"/>pent may be bruiſed, and ſubdued with it,
+in every Male and Female, if ever they be Reſtored to Life in Chriſt again, and to the ſaving
+Knowledge of God; whoſe Kingdom is compared to the leaſt of all <hi>Seeds,</hi> in its firſt
+appearance; and therefore was likened to a <hi>Grain of Muſtard Seed,</hi> Mat. 13. 31. But if
+the Seed of the Kingdom grow up in Male and Female, it will be<g ref="char:EOLhyphen"/>come the greateſt, and its
+Branches will ſpread, and its Fruit will be Righteouſneſs; the effect of which is Peace and
+aſſu<g ref="char:EOLhyphen"/>rance for ever.</p>
+            <p>And now to you all who are ſcattered upon the barren Mountains of empty Profeſſion, and
+are yet Strangers to this <hi>Seed</hi> and <hi>Spirit</hi> of <hi>Life:</hi> Know of a Truth, that
+while ye remain ſuch, you are <hi>without God in the World,</hi> feeding upon the empty Husks
+among them, who (like Swine) wallow in the Mire of Uncleanneſs, and Pollutions of the World.</p>
+            <p>Ariſe, ariſe, and ſhake off your Night Garments, for they will no longer Cover your
+Nakedneſs, and lift up your Eyes, and behold the ariſing of the Morning Star of
+Righteouſneſs in your <hi>Hearts,</hi> which will lead you to the Son of the Father's Love,
+whom he hath now raiſed in order to Rule and Reign in the <hi>Hearts</hi> of the Children of Men,
+till he hath ſubdued all his Enemies, that he alone may have the Government, whoſe Right it is:
+And all who will not that he ſhould thus Reign are his Enemies; he will ſlay them, let their
+Profeſſion,
+<pb n="4" facs="tcp:34068:4"/>
+and Confeſſion of him [in words] be what it will: For he is ariſing to ſearch his
+<hi>Jeruſalem</hi> with Candles, and the flying Roul of his Wrath is entring into the Houſe of
+the Unclean, and him that worketh Iniquity, and ſhall conſume it with the Stones and Timber
+thereof.</p>
+            <p>Therefore ſweep Iniquity and Uncleanneſs out of your Houſes, if you intend they ſhall be
+preſerved; for your greateſt Ene<g ref="char:EOLhyphen"/>mies are them within (in your own Hearts) and while they
+remain there, they will Corrupt all your Sacrifices, as <hi>David</hi> ſaid, <hi>If I regard
+Iniquity in my Heart, the Lord will not hear my Prayer,</hi> Pſalm 66. 18. And your loſt piece
+of Money in your own Houſes, <hi>Luke</hi> 15. 8. <hi>(i. e.</hi> your own Hearts) you will not
+find, till ye ſweep them by the Beſom of God's Power, and purge out the old Leaven of
+Uncleanneſs there.</p>
+            <p>Oh therefore, Come home, come home, and look into the dark Corners of your Hearts by the Candle
+of God's Word, and there you will find the Body of Sin and Death, and the Root of Bitterneſs and
+Enmity to God, by the appearance of his Be<g ref="char:EOLhyphen"/>loved Son. Oh! Let the Ax of God's Power be laid to this
+Root; for the Day of the Everlaſting Goſpel is dawned, and its Power known, which (as received,
+owned and obeyed) ſhall Root up the Body of Sin, Death and Darkneſs, and thereby ſhall bring
+Life and Immortality to Light, which the falſe Go<g ref="char:EOLhyphen"/>ſpel could not, nor can never do.</p>
+            <p>The great Maſter of the Vineyard is now come to look for Fruits, and every Plant and Graft in
+his Vineyard, that bringeth not forth good Fruit, he will hew down and caſt into the Fire: For he
+is Juſt, as well as Merciful, and will no longer be mocked with an empty Shew of Holineſs, and
+vain Pro<g ref="char:EOLhyphen"/>feſſion of Righteouſneſs, while your Fruits gives your Pro<g ref="char:EOLhyphen"/>feſſion the Lye:
+His Kingdom ſtands in Righteouſneſs, and without it, and the Works of it brought forth in
+Life and Con<g ref="char:EOLhyphen"/>verſation, no Man ſhall ſee God to his Eternal Comfort, nor re<g ref="char:EOLhyphen"/>ceive an
+Inheritance among them who are ſanctified, but as they are ſanctified thorough the Obedience of
+Faith, and Renewing of the Holy Ghoſt.</p>
+            <p>
+               <pb n="5" facs="tcp:34068:4"/>
+You have been long Coveting the Husk, and no Man would give it you, as the poor <hi>Prodigal,
+Luke</hi> 15. 16. Return now to your Father's Houſe, the <hi>Light in which God dwells,</hi> 1
+Tim. 6. 16. that he may meet you, and prepare a Feaſt of fat things for you, for his love is the
+ſame, and his Rowling Bowels is not leſſened to all his Prodigal Children, who with
+unſeigned Re<g ref="char:EOLhyphen"/>pentance return to his Houſe; the <hi>Light</hi> is his Houſe for ever: And all
+Nations, Kindreds and Tongues muſt come to this Houſe, where his Honour remains and dwells; if
+ever they Eat of his Dainties, and of the Fulneſs and Fatneſs of his Tabernacle;
+<hi>Ja<g ref="char:EOLhyphen"/>cob</hi> dwelt in this Houſe, and it was as a <hi>Fire;</hi> and alſo <hi>Joſeph,</hi>
+and it was as a <hi>Flame,</hi> and <hi>Eſau</hi> who inhabited <hi>Mount Seir,</hi> his Houſe
+was as <hi>Stubble,</hi> and no remains thereof was, nor is to be left by the Word of the Lord,
+<hi>Obediah,</hi> 18.</p>
+            <p>And the Church is coming out of the Wilderneſs (where <hi>Eſau</hi> dwells) leaning on the
+breſt of her beloved, who is embracing her in the Arms of Divine Love, leading her thro' many
+Tribu<g ref="char:EOLhyphen"/>lations, in which he will purifie her as Gold, ſeven times tried in the Fire.</p>
+            <p>And now you who are ſeeking the Lord in what way of out<g ref="char:EOLhyphen"/>ward Worſhip ſoever, behold and
+receive the <hi>Lamp of Righteouſ<g ref="char:EOLhyphen"/>neſs,</hi> which God hath lighted in you, and conſider the
+Parable, <hi>Luke</hi> 15. and return home and purge out the uncleaneſs of your own Houſes
+<hi>(i. e.)</hi> your Hearts (by the Right Hand of God's Power, which he is daily ſtretching out
+to you) of all the De<g ref="char:EOLhyphen"/>filements and Corruptions, which the Enemy of your Souls hath filled them
+withal, then (and not till then) ſhall ye find him to be the Redeemer of your Souls, the
+Knowledge of whom hath been loſt in your own Houſes, and covered out of your Sight un<g ref="char:EOLhyphen"/>der the
+Corruptions of your own Hearts; and the Enemy of your eternal Peace hath led you out to ſeek him,
+among the <hi>Lo Here</hi>'s and <hi>Lo There</hi>'s, without, where he was never found: And upon
+this Account, Chriſt ſaid, <hi>Luke</hi> 13. 14. <hi>Many ſhall ſeek to enter in and
+ſhall not be able.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:34068:5"/>
+For, whoſoever ſeeks and ſtrives to enter in, and not by <hi>Chriſt</hi> the Door, who is
+the true Light, <hi>that lighteth every Man that cometh into the World,</hi> by which the Door is
+ſeen, and the En<g ref="char:EOLhyphen"/>trance known into Life Eternal, is a Thief and a Robber: For the Corruption
+within muſt be caſt out, and the ſtrong Man armed (who hath long kept the Heart)
+diſpoſſed, before ever Man can enter the Kingdom of Righteouſneſs, or Man and Wo<g ref="char:EOLhyphen"/>man be
+<hi>Born</hi> again of the <hi>Incorruptible Seed,</hi> by the <hi>Word of God,</hi> which liveth
+and abideth for ever.</p>
+            <p>This <hi>Birth</hi> cometh not by the Will of Man, nor in the Will of the Fleſh, but by the
+Will of God, and delighteth in his Law, Statutes and Judgments, crying <hi>Abba Father,</hi> and
+ſeeks not his Face in vain, the Prayer of this <hi>Seed</hi> and <hi>Birth</hi> he heareth and
+anſwereth; this ſeeketh and findeth, becauſe In<g ref="char:EOLhyphen"/>nocency is its Garment, and Righteouſneſs
+its Breaſt-Plate.</p>
+            <p>This <hi>Birth,</hi> in whomſoever it appeareth, is hated of the World, and ſet at naught by
+the hired <hi>Builders</hi> thereof, whoſe greateſt Gain is <hi>their Godlineſs,</hi> and
+thorough Covetouſneſs, with feigned words, have they made Merchandize of Thouſands, whoſe
+Re<g ref="char:EOLhyphen"/>ward will be according to their Works.</p>
+            <p>O! Ariſe, ariſe, and come away, ye ſeeking and travelling Ones, in what Form, or under
+what Name ſo ever: The great Maſter of the Feaſt is Inviting you to Eat at his Table, make no
+Excuſes of Oxen or Farmes, Wives or Children, that you be not Rejected, and them who are in the
+High-Ways and Hedges compelled and received: For many are Called and Invited, but few Choſen and
+Received, becauſe they anſwer not his Call, nor regard his Invitation.</p>
+            <p>Therefore Gird up the Loyns of your Minds, and caſt off the Unfruitful Works of Darkneſs,
+and put on the Armour of Light; for it is offered you: Even the Spiritual Sword, by which you may
+overcome your Soul's Enemy, <hi>i. e.</hi> the World, the Fleſh, and the Devil; and this
+<hi>Word,</hi> or <hi>Sword of the Spirit,</hi> is nigh to every one of you, even <hi>in your
+Hearts,</hi> Rom. 10. 8. This <hi>In<g ref="char:EOLhyphen"/>grafted Word</hi> is able to ſave your Souls, if you Hear,
+Receive and Obey it, your Rock will be ſure in all Storms, and your Foun<g ref="char:EOLhyphen"/>dation
+<pb n="7" facs="tcp:34068:5"/>
+unmoveable, and you ſhall know the Truth, and it ſhall make you free, from that Bondage of
+Corruption which the whole Creation groans under: For a Deliverer is come, and now tender'd to all
+Mankind, that whoſoever will Receive, Follow and Obey him, ſhall not abide in <hi>Egypt</hi>'s
+Dark<g ref="char:EOLhyphen"/>neſs, nor Houſe of Bondage, but ſhall receive the Light of Life.</p>
+            <p>Oh! Seek the Lord in the Light of his Beloved Son, while he is near; for <hi>he is not far from
+every one of you,</hi> who in Sin<g ref="char:EOLhyphen"/>cerity are ſeeking him: And that, in this your Day of
+Viſita<g ref="char:EOLhyphen"/>tion, you may know the things that belong to your Everlaſting Peace, is the true
+Deſire and Breathing of</p>
+            <closer>
+               <signed>Your True Friend, <hi>Who ſeeks not Yours, but You, Ambroſe
+Rigge.</hi>
+               </signed>
+               <dateline>Reigate,
+<date>
+                     <hi>the 8th day of the 8th Month,</hi> 1698.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
